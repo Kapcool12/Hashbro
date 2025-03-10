@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-    background: url('../hero.jpeg') no-repeat center center/cover;
+    background: url('Hashbro/hero.jpeg') no-repeat center center/cover;
     color: white;
     padding: 100px 20px;
 }
